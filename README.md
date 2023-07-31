@@ -10,7 +10,7 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 
 ## 📚 What I'm currently learning
 
-- I'm working on personal projects using transformers, graph neural networks, geometric deep learning and nerf. 
+- I'm working on personal projects involving transformers, graph neural networks, geometric deep learning and nerf. 
 
 ## 💻 My tech stack
 
