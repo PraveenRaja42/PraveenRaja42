@@ -16,7 +16,7 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 
 - Languages: Python
 - Frameworks: PyTorch, OpenAI Gym, OpenCV
-- Tools: Git, GitHub, VS Code
+- Tools: Git, VS Code
 
 ## 📫 How to reach me
 
