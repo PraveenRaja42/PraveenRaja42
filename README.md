@@ -20,4 +20,4 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 
 ## 📫 How to reach me
 
-You can find me on [twitter](https://twitter.com/praveenraja_), or you can send me an email at praveenraja42@gmail.com.
+You can find me on [twitter](https://twitter.com/praveenraja_), or you can send me an email at praveenraja2261@gmail.com.
