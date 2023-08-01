@@ -1,6 +1,7 @@
 # Hi, I'm Praveen Raja 👋
 
-I'm a deep learning engineer who loves to explore new challenges and learn new things. I'm passionate about computer vision, natural language processing, NeRF, and I enjoy applying my skills and knowledge to solve real-world problems.
+I'm a deep learning engineer who loves to explore new challenges and learn new things. My expertise lies in Computer Vision, NLP, NeRF, Generative AI and I'm particularly enthusiastic about Transformer neural nets and applying them on various domains. 
+
 
 ## 🚀 Some of my projects
 
@@ -10,7 +11,7 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 
 ## 📚 What I'm currently learning
 
-- I'm working on personal projects involving transformers, graph neural networks, geometric deep learning and nerf. 
+- Currently, I'm immersed in personal projects that revolve around tranformers, graph neural networks, geomteric deep learning and the fascinating world of NeRF. My deep interest in transformers and self-attention mechanisms drives my pursuit of understanding their applications and potential in various AI domains.
 
 ## 💻 My tech stack
 
