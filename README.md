@@ -15,11 +15,6 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 
 - Currently, I'm immersed in personal projects that revolve around tranformers, graph neural networks, geomteric deep learning and the fascinating world of NeRF. My deep interest in transformers and self-attention mechanisms drives my pursuit of understanding their applications and potential in various AI domains.
 
-## 💻 My tech stack
-
-- Languages: Python
-- Frameworks: PyTorch, OpenAI Gym, OpenCV
-- Tools: Git, VS Code
 
 ## 📫 How to reach me
 
