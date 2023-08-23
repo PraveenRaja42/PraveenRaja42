@@ -6,6 +6,7 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 ## 🚀 Some of my projects
 
 - Deep Reinforcement Learning: Applied DQN algorithm on Pong Environment: A project where I implemented the deep Q-learning algorithm to train an agent to play the classic Atari game Pong.
+- [A re-implementation of FasterRCNN Object detection model in Pytorch and trained it on a custom dataset](https://github.com/PraveenRaja42/Object-Detection-with-FasterRCNN-on-a-Custom-Datasets-using-PyTorch)
 - Relational-Deep-Reinforcement-Learning-using-Attention-models: I explored the use of attention mechanisms to enhance the performance of deep reinforcement learning agents in relational environments.
 - Image-Self-Supervised-Learning-with-Pytorch-Lightning: An experiment with different self-supervised learning methods for image representation learning using PyTorch Lightning.
 
