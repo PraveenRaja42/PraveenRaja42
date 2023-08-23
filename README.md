@@ -8,7 +8,7 @@ I'm a deep learning engineer who loves to explore new challenges and learn new t
 - [A minimal PyTorch re-implementation of GPT, trained on the TinyStories dataset with GPT-2 tokeniser. The goal of this project is to show how a small language model can still generate creative and coherent stories.](https://github.com/PraveenRaja42/GPT-PyTorch)
 - [A re-implementation of FasterRCNN Object detection model in Pytorch and trained it on a custom dataset to detect and recognize vehicles present in the road traffic images](https://github.com/PraveenRaja42/Object-Detection-with-FasterRCNN-on-a-Custom-Datasets-using-PyTorch)
 - [Deep Reinforcement Learning: Applied DQN algorithm on Pong Environment: A project where I implemented the deep Q-learning algorithm to train an agent to play the classic Atari game Pong.](https://github.com/PraveenRaja42/DQN-on-Pong-Environment)
--[ Relational-Deep-Reinforcement-Learning-using-Attention-models: I explored the use of attention mechanisms to enhance the performance of deep reinforcement learning agents in virtual world.](https://github.com/PraveenRaja42/Relational-Deep-Reinforcement-Learning-using-Attention-models)
+- [ Relational-Deep-Reinforcement-Learning-using-Attention-models: I explored the use of attention mechanisms to enhance the performance of deep reinforcement learning agents in virtual world.](https://github.com/PraveenRaja42/Relational-Deep-Reinforcement-Learning-using-Attention-models)
 - [Image-Self-Supervised-Learning-with-Pytorch-Lightning: An experiment with different self-supervised learning methods for image representation learning using PyTorch Lightning.](https://github.com/PraveenRaja42/self-supervised-learning-for-Image-recognition)
 
 ## 📚 What I'm currently learning
