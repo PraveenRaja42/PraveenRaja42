@@ -1,6 +1,6 @@
 # Hi, I'm Praveen Raja 👋
 
-I'm a deep learning engineer who loves to explore new challenges and learn new things. My expertise lies in Computer Vision, NLP, NeRF, Generative AI and I'm particularly enthusiastic about Transformer neural nets and applying them on various domains. 
+A deep learning engineer who loves to explore new challenges and learn new things. My expertise lies in Computer Vision, NLP, NeRF, Generative AI and I'm particularly enthusiastic about Transformer neural nets and applying them on various domains. 
 
 
 ## 🚀 Some of my projects
